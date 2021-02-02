@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [NopEcommerce]" parallel="none">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.automation.Utilities.Reportings"/>
+  </listeners>
+  <test thread-count="5" name="SmokeTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.automation.TestScripts.LoginPageTest"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- Failed suite [NopEcommerce] -->

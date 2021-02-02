@@ -1,0 +1,8 @@
+com\automation\Utilities\PropertiesReaders.class
+com\automation\Utilities\Reportings.class
+com\automation\Pages\LoginPage.class
+com\automation\Utilities\PojoReaders.class
+com\automation\Pages\Customers.class
+com\automation\Utilities\FilePaths.class
+com\automation\Utilities\ScreenShotUtilities.class
+com\automation\BaseEngine\BaseClass.class
