@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="NopEcommerce" duration-ms="48201" started-at="2021-01-31T05:23:33Z" finished-at="2021-01-31T05:24:22Z">
+  <suite name="NopEcommerce" duration-ms="31052" started-at="2021-02-06T08:08:19Z" finished-at="2021-02-06T08:08:50Z">
     <groups>
     </groups>
-    <test name="SmokeTest" duration-ms="48201" started-at="2021-01-31T05:23:33Z" finished-at="2021-01-31T05:24:22Z">
+    <test name="SmokeTest" duration-ms="31052" started-at="2021-02-06T08:08:19Z" finished-at="2021-02-06T08:08:50Z">
       <class name="com.automation.TestScripts.LoginPageTest">
-        <test-method status="PASS" signature="openbrowser(java.lang.String)[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="openbrowser" is-config="true" duration-ms="64002" started-at="2021-01-31T10:52:29Z" finished-at="2021-01-31T10:53:33Z">
+        <test-method status="PASS" signature="openbrowser(java.lang.String)[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="openbrowser" is-config="true" duration-ms="32240" started-at="2021-02-06T13:37:47Z" finished-at="2021-02-06T13:38:19Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="login" duration-ms="39231" started-at="2021-01-31T10:53:42Z" finished-at="2021-01-31T10:54:21Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="login" duration-ms="26947" started-at="2021-02-06T13:38:21Z" finished-at="2021-02-06T13:38:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="AfterTCExcution(org.testng.ITestResult)[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="AfterTCExcution" is-config="true" duration-ms="542" started-at="2021-01-31T10:54:21Z" finished-at="2021-01-31T10:54:22Z">
+        <test-method status="PASS" signature="AfterTCExcution(org.testng.ITestResult)[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="AfterTCExcution" is-config="true" duration-ms="1431" started-at="2021-02-06T13:38:48Z" finished-at="2021-02-06T13:38:50Z">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTCExcution -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="teardown" is-config="true" duration-ms="1" started-at="2021-01-31T10:54:23Z" finished-at="2021-01-31T10:54:23Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.automation.TestScripts.LoginPageTest@61d47554]" name="teardown" is-config="true" duration-ms="0" started-at="2021-02-06T13:38:53Z" finished-at="2021-02-06T13:38:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
